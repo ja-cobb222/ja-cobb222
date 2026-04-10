@@ -1,7 +1,7 @@
 # Hello, I'm Jacob Isaksen! 👋  
-Aspiring Software Engineer | "Brigham Young University - Idaho" Student  
+Aspiring Software Engineer | "Brigham Young University - Idaho" Graduate  
 
-- 🔭 I’m currently wrapping up the last classes for my degree.  
-- 🌱 I’m learning C++, C#, Javascript, Python and Project Management.  
+- 🔭 I’m currently looking for a job in Software Engineering. 
+- 🌱 I know C++, C#, Typescript, Python and Project Management.  
 - 💬 Ask me about algorithm development, problem-solving, or my journey into software engineering. 
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/jacob-isaksen/)
